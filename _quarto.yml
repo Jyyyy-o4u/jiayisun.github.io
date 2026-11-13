@@ -4,10 +4,10 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Jiayi Sun"
+  site-url: https://github.com/Jyyyy-o4u
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/Jyyyy-o4u/jiayisun.github.io
   repo-actions: [edit, issue]
   
   page-footer:
@@ -24,16 +24,10 @@ website:
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
       - text: "Codes"
         href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
-      - text: "CV"
-        href: CV.pdf
 
 format:
   html:
